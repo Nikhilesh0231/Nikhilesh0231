@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhilesh Tiwari 
-- 👀 I’m interested in Creating attractive and dynamic web pages
+- 👀 I’m interested in creating attractive and dynamic web pages
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me whatsapp me on 8874418898
